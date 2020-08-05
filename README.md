@@ -18,5 +18,7 @@ Stylus will open a new tab in your browser that loads the UserCSS userstyle. Mak
 | -- | -- | -- | -- | -- |
 | <img src="https://github.com/StylishThemes/Quora-Dark/raw/master/images/after.png" width="300"> | Quora | [Quora Dark](https://github.com/StylishThemes/Quora-Dark) | [@StylishThemes](https://github.com/StylishThemes) | [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](https://github.com/StylishThemes/Quora-Dark/raw/master/quora-dark.user.css) [![](https://img.shields.io/badge/repo-black?style=flat-square&logo=github)](https://github.com/StylishThemes/Quora-Dark) |
 
+| <img src="https://github.com/StylishThemes/Quora-Dark/raw/master/images/after.png" width="300"> | Quora | [Quora Dark](https://github.com/StylishThemes/Quora-Dark) | [@StylishThemes](https://github.com/StylishThemes) | [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](https://github.com/StylishThemes/Quora-Dark/raw/master/quora-dark.user.css) [![](https://img.shields.io/badge/repo-black?style=flat-square&logo=github)](https://github.com/StylishThemes/Quora-Dark) |
+
 ## Credit
 Bootstrapped from [@Tobimori](https://github.com/tobimori/awesome-userstyles].
