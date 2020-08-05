@@ -3,14 +3,14 @@
 @namespace    https://twitter.com/richtatum/
 @description  Places a red bar at bottom of page for URLs on staging servers
 @author       Rich Tatum <rich.tatum@gmail.com> (https://twitter.com/richtatum/)
-@version      1.0.1
+@version      1.0.2
 @homepageURL  https://github.com/richtatum/userstyles/
 @updateURL    https://raw.githubusercontent.com/richtatum/userstyles/master/staging-warning.css
 @supportURL   https://twitter.com/richtatum/
 @license      CC-BY-SA-4.0
 @preprocessor default
 ==/UserStyle== */
-    
+
 body::after {
     content:"— STAGING SERVER —" !important;
     font-family: "Open Sans Extrabold","Open Sans",Verdana, Tahoma, Arial, Helvetica !important;
